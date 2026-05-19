@@ -1,4 +1,4 @@
-# Ex03 Places Around Me
+# Ex03 Image_map
 # Date:12/05/2026
 # AIM
 To develop a website to display details about the places around my house.
